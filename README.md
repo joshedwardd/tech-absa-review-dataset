@@ -13,7 +13,7 @@ aspect.
 | Column | Description |
 |--------|-------------|
 | `raw_review` | Original review text (Indonesian). |
-| `rating` | Star rating given by the reviewer (1–5). Empty for 1,295 rows whose source rating was unavailable. |
+| `rating` | Star rating given by the reviewer (1–5). |
 | `aspect` | Aspect category (weakly-supervised label). One of: `quality`, `delivery`, `service`, `price`, `general`. |
 | `sentiment` | Sentiment toward the aspect (weakly-supervised label). One of: `positive`, `negative`. |
 
