@@ -8,7 +8,7 @@ that aspect. A single review may appear in multiple rows, once per detected
 aspect.
 
 
-## Scema
+## Schema
 
 | Column | Description |
 |--------|-------------|
